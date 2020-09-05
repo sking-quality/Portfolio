@@ -14,5 +14,5 @@ SQL Project Python ::
 You're working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. Your task is to find patterns in the available information. You'll study a database, analyze data from competitors, and test a hypothesis about the impact of weather on ride frequency.
 
 Tell a Story Using Data - LA Restaurant Analysis :: 
-You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. You will prepare some market research. You have data on restaurants in LA.
+You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. You will prepare some market research. You have data on restaurants in LA. Presentation: https://github.com/sking-quality/Project/blob/master/Robot%20Caf%C3%A9.pdf
 
