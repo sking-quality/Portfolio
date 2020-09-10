@@ -16,3 +16,5 @@ You're working as an analyst for Zuber, a new ride-sharing company that's launch
 Tell a Story Using Data - LA Restaurant Analysis :: 
 You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. You will prepare some market research. You have data on restaurants in LA. Presentation: https://github.com/sking-quality/Project/blob/master/Robot%20Caf%C3%A9.pdf
 
+A_A_B Test Sales Funnel User Analysis :: You work at a startup that sells food products. You need to investigate user behavior for the company's app. First study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular? Then look at the results of an A/A/B test.  
+
