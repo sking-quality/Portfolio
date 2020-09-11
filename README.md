@@ -4,8 +4,8 @@ You are an analyst at a big online store. Together with the marketing department
 Video Game Marketing Analysis :: 
 You work for the online store Ice, which sells videogames all over the world. You need to identify patterns that determine whether a game succeeds or not. This allows you to put your money on a potentially hot new item and plan advertising campaigns.
 
-Marketing Daily/Weekly/Monthly User Analysis :: 
-Your first task is to help optimize marketing expenses. You are going to study: • How people use the product • When they start to buy • How much money each customer brings • When they pay off.
+Marketing User and Revenue Analysis :: 
+Your first task is to help optimize marketing expenses. You are going to study: • Active Users by Day, Week and Month (DAU, WAU, MAU) and Session Length • Cost of Acquisition (CAC) by Advertising Source • How many days until first purchase • Lifetime Value (LTV) How much money each customer brings • Whhich months bring the most revenue.
 
 SQL Project and Beautiful Soup parsing :: 
 Internet parsing with BeautifulSoup. SQL queries. First half of two part SQL Project.
