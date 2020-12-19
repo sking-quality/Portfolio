@@ -1,3 +1,5 @@
+Tableau Dashboards :: Use Open Data Sources to create Dashboards with Tableau Public
+
 Hypothesis and A/B Test Analysis :: prioritize hypotheses, launch an A/B test, and analyze the results.
 
 Video Game Marketing Analysis :: identify patterns that determine whether a game succeeds or not. This allows investment on a potentially hot new item and information to plan advertising campaigns.
