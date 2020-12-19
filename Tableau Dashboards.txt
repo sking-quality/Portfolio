@@ -1,0 +1,19 @@
+Tableau Dashboards
+
+Marin County Open Data
+Households by Income, Age and Race
+Source: https://data.marincounty.org/
+
+Dashboard: https://public.tableau.com/profile/sheryl.k6583#!/vizhome/MarinData2/Dashboard2
+
+Sonoma County Open Data
+Stale Unclaimed Checks
+Source: https://data.sonomacounty.ca.gov/
+
+Dashboard: https://public.tableau.com/profile/sheryl.k6583#!/vizhome/SonomaCountyUnclaimed/SoCoUnclaimed
+
+
+Video Data
+Source: Practicum
+
+Dashboard: https://public.tableau.com/profile/sheryl.k6583#!/vizhome/TrendingVideosDashboard_15980359614470/TrendingVideos2
